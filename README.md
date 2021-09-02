@@ -1,2 +1,14 @@
 # hello_world
-My first github repository.
+
+Hello people!
+
+Sheethal here. Web developer, enthusiastic person and
+.
+.
+.
+Who reads these anyway!?
+
+(My first github repository.)
+
+**!false
+(It’s funny because it’s true.)**
