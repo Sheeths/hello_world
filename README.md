@@ -2,11 +2,8 @@
 
 Hello people!
 
-Sheethal here. Web developer, enthusiastic person and
-.
-.
-.
-Who reads these anyway!?
+Sheethal here. 
+
 
 (My first github repository.)
 
